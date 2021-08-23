@@ -24,3 +24,7 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 ![image](https://user-images.githubusercontent.com/49155163/130485917-f8b55bde-27a2-4d82-a7cc-0f53b3bca507.png)
+
+### The architecture of the quizapp
+![image](https://user-images.githubusercontent.com/49155163/130487824-d9ef4633-c9ea-4cae-b186-7f60d5991804.png)
+
